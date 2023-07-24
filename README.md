@@ -3,9 +3,9 @@
 About Me:
 
 * 😁 Self-taught programmer
-* 📚 Currently interested in machine learning and robotics
+* 📚 Currently interested in web development
 * 👨‍🎓 Amazon Future Engineering Scholar
-* 👨‍🏭 Have experience as both a lead programmer and programming mentor for local robotics teams
+* Air Force Cadet
 
 # Certifications
 * AWS Technical EssentialsAWS Technical Essentials
@@ -15,5 +15,7 @@ About Me:
 
 # Contacts
 Gmail: ayoaina26@gmail.com
-Website: [https://kaleb-ugalde-portfolio.onrender.com/](https://linktr.ee/AyoAina)
-Linkedin: [https://www.linkedin.com/in/kaleb-josh-ugalde-8244a2238/](https://www.linkedin.com/in/ayodele-aina-76a654220/)https://www.linkedin.com/in/ayodele-aina-76a654220/
+
+Website: https://linktr.ee/AyoAina
+
+Linkedin: https://www.linkedin.com/in/ayodele-aina-76a654220/
