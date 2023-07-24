@@ -8,8 +8,8 @@ About Me:
 * Air Force Cadet
 
 # Certifications
-* AWS Technical EssentialsAWS Technical Essentials
-* Advanced C ProgrammingAdvanced C Programming
+* AWS Technical Essentials
+* Advanced C Programming
 * Building a Personal Portfolio with Django
 * Code of Business Conduct and Ethics
 
