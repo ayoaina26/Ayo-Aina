@@ -16,6 +16,8 @@ About Me:
 # Contacts
 Gmail: ayoaina26@gmail.com
 
-Website: https://linktr.ee/AyoAina
+Linktree: https://linktr.ee/AyoAina
+
+Website: https://people.tamu.edu/~aaina26
 
 Linkedin: https://www.linkedin.com/in/ayodele-aina-76a654220/
