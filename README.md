@@ -5,7 +5,7 @@ About Me:
 * 😁 Self-taught programmer
 * 📚 Currently interested in web development
 * 👨‍🎓 Amazon Future Engineering Scholar
-* 🛦 Air Force Cadet
+* 🛦 Cadet
 
 # Certifications
 * AWS Technical Essentials
